@@ -1,4 +1,4 @@
-##AI Resume Analyzer Advanced
+# AI Resume Analyzer Advanced
 
 A simple AI resume analyzer build with react and using FastAPI for backend. LLM used here is gpt-4.1-mini.
 
@@ -11,3 +11,8 @@ A simple AI resume analyzer build with react and using FastAPI for backend. LLM 
 5. Open http://localhost for frontend.
 6. Open http://localhost:8000 for backend.
 ```
+## Tech Stack
+
+Frontend: React
+Backend: FastAPI
+Lage Language Model: gpt-4.1-mini
