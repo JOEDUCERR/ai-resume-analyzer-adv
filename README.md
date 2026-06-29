@@ -13,6 +13,6 @@ A simple AI resume analyzer build with react and using FastAPI for backend. LLM 
 ```
 ## Tech Stack
 
-Frontend: React
-Backend: FastAPI
+Frontend: React  
+Backend: FastAPI  
 Lage Language Model: gpt-4.1-mini
